@@ -114,11 +114,11 @@
        .yarl__toolbar{
         filter:0 !important;
         top: 15% !important;
-        right:67px !important;  
+        right:50px !important;  
     }
     
     .yarl__navigation_next{
-        right:67px !important;
+        right:50px !important;
         top:46%!important;
     } 
     .yarl__navigation_prev {
@@ -142,11 +142,11 @@
         .yarl__toolbar{
             filter:0 !important;
             top: 38px !important;
-            right:167px !important;    
+            right:150px !important;    
         }
         
         .yarl__navigation_next{
-            right: 167px !important;
+            right: 150px !important;
             top:50%!important;
         } 
         .yarl__navigation_prev {
@@ -170,11 +170,11 @@
     .yarl__toolbar{
         filter:0 !important;
         top: 38px !important;
-        right:167px !important;    
+        right:150px !important;    
     }
     
     .yarl__navigation_next{
-        right: 167px !important;
+        right: 150px !important;
         top:50%!important;
         
     } 
