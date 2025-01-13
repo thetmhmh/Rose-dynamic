@@ -1,10 +1,10 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
+import dynamic from "next/dynamic";
 import {HiArrowLongLeft, HiArrowLongRight,HiChevronLeft, HiChevronRight, HiXMark } from "react-icons/hi2";
+const Lightbox = dynamic(() => import("@/app/photos/components/Lightbox"));
 
-import Lightbox from "yet-another-react-lightbox";
-import "yet-another-react-lightbox/styles.css";
 
 import photo1 from "@/assets/images/photo-page/rosie-Concept-Photo.jpeg";
 import photo2 from "@/assets/images/photo-page/APT-Concept-Photo.jpeg";
